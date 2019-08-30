@@ -1,1 +1,1 @@
-![](./src/main/resources/image01.png | width=100)
+![](./src/main/resources/image01.png)
